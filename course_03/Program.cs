@@ -25,7 +25,7 @@ namespace course_03 {
             Console.WriteLine("d2 Kind:" + d2.Kind);
             Console.WriteLine("d2 Local:" + d2.ToLocalTime());
             Console.WriteLine("d2 UTC:" + d2.ToUniversalTime());
-
+            Console.WriteLine();
         }
     }
 }
